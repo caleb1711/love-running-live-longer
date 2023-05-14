@@ -159,8 +159,7 @@ hr {
 
 }
 
-.right-about-heading,
-h2 {
+.right-about-heading h2 {
     text-align: right;
 }
 
