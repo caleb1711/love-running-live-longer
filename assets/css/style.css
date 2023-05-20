@@ -71,7 +71,7 @@ h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../images/hero-image.webp') no-repeat center center;
+    background: url('../assets/athletes.jpg') no-repeat center center;
 
 
     animation-name: hero-zoom;
@@ -195,7 +195,7 @@ hr {
 }
 
 #times {
-    background: url('../images/dublin-city.webp');
+    background: url('../images/');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -341,4 +341,8 @@ footer {
         column-count: 2;
     }
 
+}
+.lol {
+    padding-top: 30px;
+    color: red;
 }
